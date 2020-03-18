@@ -13,7 +13,7 @@ cd impacket
 python setup.py install
 ```
 
-直接使用pip安装的不行，所以需要clone然后安装，在macox系统下需要sudo权限。
+直接使用pip安装的不行，所以需要clone然后安装，在MAC系统下需要sudo权限。
 
 安装成功后，下载该代码。执行如下命令：
 
